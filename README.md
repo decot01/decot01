@@ -14,8 +14,10 @@ I’m [**George**](https://fakecrime.bio/decot), a frontend dev based in Russia 
 - Python
 ---
 **Pet projects:**
+
 [StalcraftHelper](https://schelper.tech/) - This is an assistant for the MMO shooter Stalcraft, which combines many different functions. currently under development.
 CosmicVpn - My VPN service is planning a good VPN service with many different features, currently under development.
+---
 **Fun Facts:**
 * I like tea with milk
 * 16 y.o.
