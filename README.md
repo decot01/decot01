@@ -18,19 +18,8 @@
 **Pet projects:**
 - [StalcraftHelper](https://schelper.tech/) — An assistant for the MMO shooter Stalcraft (in active development).
 - CosmicVpn — VPN service project (in development, features TBD).
-
+**You can see more pet projects in my pinned cards**
 ---
-
-**Fun Facts:**
-- ☕ I like tea with milk
-- 🎂 16 y.o.
-- 🎮 Keen on playing Stalcraft, Valorant, CS2
-- 🟣 I support Team Spirit
-- ✨ Passionate about quirky UX design tricks
-- 🎨 Hobbies: anime, gym, board games
-
----
-
 ```ascii-art
 ⠀⠀⠀⠀⠀⠀/)/)⠀⠀⠀⠀/),/)⠀⠀⠀(\__/)⠀⠀⠀(\.(\⠀⠀⠀⠀⠀(\(\
 ⠀⠀⠀⠀(':'=)⠀⠀⠀(':'=)⠀⠀⠀(=';'=)⠀⠀⠀(=':')⠀⠀⠀(=':')
