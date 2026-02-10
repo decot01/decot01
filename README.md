@@ -1,33 +1,37 @@
-## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+## Hello, I’m George 👋
+**Role:** Frontend developer | based in Russia for now
 
-I’m [**George**](https://fakecrime.bio/decot), a frontend dev based in Russia for now.
-
-**My stack:**
+**Stack & Focus:**
 ### WEB
-- Astro, TypeScript, CSS
-- Figma
-- Miro, Discord
+- 🟦 Astro, TypeScript, CSS
+- 🎨 Figma
+
 ### GameDev
 - C#, C++
 - Unity, Godot
+
 ### Other
 - Python
----
-**Pet projects:**
 
-[StalcraftHelper](https://schelper.tech/) - This is an assistant for the MMO shooter Stalcraft, which combines many different functions. currently under development.
-CosmicVpn - My VPN service is planning a good VPN service with many different features, currently under development.
 ---
+
+**Pet projects:**
+- [StalcraftHelper](https://schelper.tech/) — An assistant for the MMO shooter Stalcraft (in active development).
+- CosmicVpn — VPN service project (in development, features TBD).
+
+---
+
 **Fun Facts:**
-* I like tea with milk
-* 16 y.o.
-* Keen on play Stalcarft, Valorant, Cs2
-* I support Team Spirit
-* Crazy about crazy UX design tricks
-* **Hobbies:** anime & gym & board games
+- ☕ I like tea with milk
+- 🎂 16 y.o.
+- 🎮 Keen on playing Stalcraft, Valorant, CS2
+- 🟣 I support Team Spirit
+- ✨ Passionate about quirky UX design tricks
+- 🎨 Hobbies: anime, gym, board games
+
 ---
-```
+
+```ascii-art
 ⠀⠀⠀⠀⠀⠀/)/)⠀⠀⠀⠀/),/)⠀⠀⠀(\__/)⠀⠀⠀(\.(\⠀⠀⠀⠀⠀(\(\
 ⠀⠀⠀⠀(':'=)⠀⠀⠀(':'=)⠀⠀⠀(=';'=)⠀⠀⠀(=':')⠀⠀⠀(=':')
 ⠀⠀(")("),,)⠀(")("),,)⠀⠀(")_(")⠀⠀⠀(..(")(")⠀(..(")( ")
-```
