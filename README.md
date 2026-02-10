@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-<!--
-**decot01/decot01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**George**](https://fakecrime.bio/decot), a frontend dev based in Russia for now.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My stack:**
+### WEB
+- Astro, TypeScript, CSS
+- Figma
+- Miro, Discord
+### GameDev
+- C#, C++
+- Unity, Godot
+### Other
+- Python
+---
+**Pet projects:**
+[StalcraftHelper](https://schelper.tech/) - This is an assistant for the MMO shooter Stalcraft, which combines many different functions. currently under development.
+CosmicVpn - My VPN service is planning a good VPN service with many different features, currently under development.
+**Fun Facts:**
+* I like tea with milk
+* 16 y.o.
+* Keen on play Stalcarft, Valorant, Cs2
+* I support Team Spirit
+* Crazy about crazy UX design tricks
+* **Hobbies:** anime & gym & board games
+---
+```
+⠀⠀⠀⠀⠀⠀/)/)⠀⠀⠀⠀/),/)⠀⠀⠀(\__/)⠀⠀⠀(\.(\⠀⠀⠀⠀⠀(\(\
+⠀⠀⠀⠀(':'=)⠀⠀⠀(':'=)⠀⠀⠀(=';'=)⠀⠀⠀(=':')⠀⠀⠀(=':')
+⠀⠀(")("),,)⠀(")("),,)⠀⠀(")_(")⠀⠀⠀(..(")(")⠀(..(")( ")
+```
