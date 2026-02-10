@@ -1,4 +1,4 @@
-## Hello, I’m George 👋
+## Hello, I’m [George](https://fakecrime.bio/decot) 👋
 **Role:** Frontend developer | based in Russia for now
 
 **Stack & Focus:**
