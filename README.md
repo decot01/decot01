@@ -1,17 +1,12 @@
 ## Hello, I’m [George](https://fakecrime.bio/decot) 👋
 **Role:** Frontend developer | based in Russia for now
-
-**Stack & Focus:**
 ### WEB
-- 🟦 Astro, TypeScript, CSS
-- 🎨 Figma
-
+[![My Skills](https://skillicons.dev/icons?i=astro,figma,nginx,npm,react,svelte&center=true&perline=3)](https://skill-icons-builder.vercel.app/)
 ### GameDev
-- C#, C++
-- Unity, Godot
-
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal&center=true&perline=3)](https://skill-icons-builder.vercel.app/)
 ### Other
-- Python
+[![My Skills](https://skillicons.dev/icons?i=git,github,kali,py,opencv,tensorflow&center=true&perline=3)](https://skill-icons-builder.vercel.app/)
+
 
 ---
 
@@ -24,3 +19,4 @@
 ⠀⠀⠀⠀⠀⠀/)/)⠀⠀⠀⠀/),/)⠀⠀⠀(\__/)⠀⠀⠀(\.(\⠀⠀⠀⠀⠀(\(\
 ⠀⠀⠀⠀(':'=)⠀⠀⠀(':'=)⠀⠀⠀(=';'=)⠀⠀⠀(=':')⠀⠀⠀(=':')
 ⠀⠀(")("),,)⠀(")("),,)⠀⠀(")_(")⠀⠀⠀(..(")(")⠀(..(")( ")
+```
