@@ -32,5 +32,5 @@
 <h3 align="center">🧪 Pet projects</h3>
 <p align="center">
   🚀 <strong><a href="https://schelper.tech/">StalcraftHelper</a></strong> — An assistant for the MMO shooter Stalcraft (in active development).<br>
-  🛡️ <strong>CosmicVpn</strong> — VPN service project (in development, features TBD).
+  🐊 <strong><a href="https://t.me/gear_up_croco_bot">GearUP croco</a></strong> — VPN service project (in development, features TBD).
 </p>
